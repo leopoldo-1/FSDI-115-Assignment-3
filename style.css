@@ -80,12 +80,7 @@ body {
 }
 
 @media (max-width: 768px) {
-  .title1 {
-    font-size: 1.5rem;
-  }
-
   .title2 {
-    font-size: 1rem;
     margin: 1rem 0;
   }
 }
