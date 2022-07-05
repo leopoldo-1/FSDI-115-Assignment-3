@@ -7,5 +7,6 @@ Web:
 ![img1](https://user-images.githubusercontent.com/61714687/177229372-cc7a76ab-1be8-49a7-92b0-108a7f4868c2.JPG)
 
 ---
+
 Mobile:
-![imgg2](https://user-images.githubusercontent.com/61714687/177229380-34d6ff7f-cecc-4f1b-9f7a-2428956fc46b.JPG)
+![imgg2](https://user-images.githubusercontent.com/61714687/177229538-9733b5cf-2f52-469d-b0ec-55cb9b8cbf5d.JPG)
